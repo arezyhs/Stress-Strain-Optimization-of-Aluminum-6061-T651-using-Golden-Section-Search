@@ -30,6 +30,6 @@ Material: Aluminum 6061-T651 under uniaxial tension at 300K.
 - **RMSE**: 10.24 MPa
 - **MAE**: 6.61 MPa
 
-- ## 📚 References
+## 📚 References
 - Shields, M., et al. (2019). *Stress-strain data for aluminum 6061-T651...*. [DOI: 10.17632/rd6jm9tyb6.2](https://doi.org/10.17632/rd6jm9tyb6.2)
 - Aakash, B. S., et al. (2019). *Variability in the thermo-mechanical behavior...*
